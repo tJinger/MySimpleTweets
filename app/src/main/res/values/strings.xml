@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleTwitter</string>
+    <string name="login_label">Connect to Twitter</string>
+    <string name="title_activity_timeline">Home Timeline</string>
+    <string name="action_compose">compose</string>
+    <string name="app_title">Twitter</string>
+    <string name ="action_tweet">Tweet</string>
+    <string name="compose_tweet">Create New Tweet</string>
+    <string name="twitter_home">Home</string>
+</resources>
